@@ -1,0 +1,3668 @@
+{
+  "price_distribution": [
+    {
+      "label": "\u20b932L\u2013\u20b91.4Cr",
+      "from": 3220000.0,
+      "to": 13933000.0,
+      "count": 1715
+    },
+    {
+      "label": "\u20b91.4Cr\u2013\u20b92.5Cr",
+      "from": 13933000.0,
+      "to": 24646000.0,
+      "count": 1887
+    },
+    {
+      "label": "\u20b92.5Cr\u2013\u20b93.5Cr",
+      "from": 24646000.0,
+      "to": 35359000.0,
+      "count": 743
+    },
+    {
+      "label": "\u20b93.5Cr\u2013\u20b94.6Cr",
+      "from": 35359000.0,
+      "to": 46072000.0,
+      "count": 332
+    },
+    {
+      "label": "\u20b94.6Cr\u2013\u20b95.7Cr",
+      "from": 46072000.0,
+      "to": 56785000.0,
+      "count": 170
+    },
+    {
+      "label": "\u20b95.7Cr\u2013\u20b96.7Cr",
+      "from": 56785000.0,
+      "to": 67498000.0,
+      "count": 76
+    },
+    {
+      "label": "\u20b96.7Cr\u2013\u20b97.8Cr",
+      "from": 67498000.0,
+      "to": 78211000.0,
+      "count": 40
+    },
+    {
+      "label": "\u20b97.8Cr\u2013\u20b98.9Cr",
+      "from": 78211000.0,
+      "to": 88924000.0,
+      "count": 15
+    },
+    {
+      "label": "\u20b98.9Cr\u2013\u20b910.0Cr",
+      "from": 88924000.0,
+      "to": 99637000.0,
+      "count": 9
+    },
+    {
+      "label": "\u20b910.0Cr\u2013\u20b911.0Cr",
+      "from": 99637000.0,
+      "to": 110350000.0,
+      "count": 1
+    }
+  ],
+  "area_vs_price": {
+    "sample_size": 450,
+    "points": [
+      {
+        "area": 570,
+        "price": 5170000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1627,
+        "price": 18320000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1733,
+        "price": 19790000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1330,
+        "price": 21280000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1764,
+        "price": 35390000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1360,
+        "price": 12520000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 2179,
+        "price": 32340000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1556,
+        "price": 15640000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1155,
+        "price": 10940000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2043,
+        "price": 22610000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1292,
+        "price": 26570000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1615,
+        "price": 18740000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 899,
+        "price": 9080000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1508,
+        "price": 13060000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 963,
+        "price": 14010000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1266,
+        "price": 13380000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 813,
+        "price": 16810000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1127,
+        "price": 17630000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1617,
+        "price": 13650000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2399,
+        "price": 20630000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 4100,
+        "price": 98360000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1699,
+        "price": 13520000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1687,
+        "price": 13770000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2514,
+        "price": 20200000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 590,
+        "price": 5100000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1150,
+        "price": 13270000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1632,
+        "price": 21170000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1421,
+        "price": 17390000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1914,
+        "price": 13860000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1295,
+        "price": 16900000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1813,
+        "price": 18570000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1590,
+        "price": 21250000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 915,
+        "price": 14560000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 500,
+        "price": 7880000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1156,
+        "price": 8830000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1690,
+        "price": 28570000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1908,
+        "price": 18680000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2400,
+        "price": 37010000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1186,
+        "price": 8260000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1763,
+        "price": 26580000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 988,
+        "price": 15220000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 3107,
+        "price": 39370000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1816,
+        "price": 20450000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1823,
+        "price": 24460000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 2593,
+        "price": 60760000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1287,
+        "price": 19770000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 749,
+        "price": 8680000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2035,
+        "price": 19910000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1322,
+        "price": 10290000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1452,
+        "price": 10380000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1557,
+        "price": 13530000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1310,
+        "price": 10840000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 947,
+        "price": 13500000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 960,
+        "price": 10310000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1562,
+        "price": 11050000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 984,
+        "price": 10080000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1527,
+        "price": 14110000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1609,
+        "price": 26420000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1566,
+        "price": 14070000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 947,
+        "price": 6470000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2984,
+        "price": 28310000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1323,
+        "price": 21560000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2089,
+        "price": 33880000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 914,
+        "price": 9280000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2946,
+        "price": 40550000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1000,
+        "price": 8750000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2183,
+        "price": 28530000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1720,
+        "price": 23730000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 977,
+        "price": 12300000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2561,
+        "price": 22260000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1247,
+        "price": 6970000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1069,
+        "price": 14770000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1507,
+        "price": 20200000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 993,
+        "price": 20050000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 972,
+        "price": 9280000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1006,
+        "price": 14080000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 549,
+        "price": 5960000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 619,
+        "price": 9800000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1919,
+        "price": 25760000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 500,
+        "price": 6030000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1657,
+        "price": 20930000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1217,
+        "price": 10700000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2562,
+        "price": 21550000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 2161,
+        "price": 28380000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1578,
+        "price": 31570000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1585,
+        "price": 17150000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1532,
+        "price": 18830000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1170,
+        "price": 16630000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1818,
+        "price": 28040000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 2008,
+        "price": 20830000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1995,
+        "price": 19650000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1640,
+        "price": 11310000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1759,
+        "price": 23350000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 2806,
+        "price": 53090000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1027,
+        "price": 16030000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1329,
+        "price": 23040000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1389,
+        "price": 12230000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1179,
+        "price": 8880000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1663,
+        "price": 12750000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1201,
+        "price": 15370000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1675,
+        "price": 17030000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1338,
+        "price": 15400000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 940,
+        "price": 8920000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1358,
+        "price": 23490000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1509,
+        "price": 18710000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2220,
+        "price": 25550000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 3949,
+        "price": 50100000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 3111,
+        "price": 61230000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 3142,
+        "price": 40610000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1952,
+        "price": 20430000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1346,
+        "price": 16580000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2091,
+        "price": 41240000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1242,
+        "price": 13570000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2014,
+        "price": 19440000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 741,
+        "price": 6450000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1947,
+        "price": 22360000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1593,
+        "price": 19440000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1247,
+        "price": 18240000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1385,
+        "price": 14960000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1904,
+        "price": 23450000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1467,
+        "price": 25470000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 899,
+        "price": 7570000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 972,
+        "price": 7620000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 734,
+        "price": 7650000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2270,
+        "price": 30260000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1333,
+        "price": 20350000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 974,
+        "price": 8830000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1705,
+        "price": 11420000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1312,
+        "price": 18960000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 617,
+        "price": 6670000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1409,
+        "price": 18870000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 802,
+        "price": 9350000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1649,
+        "price": 23950000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1029,
+        "price": 13180000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1342,
+        "price": 16120000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1437,
+        "price": 13200000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2603,
+        "price": 56400000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1619,
+        "price": 26180000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 948,
+        "price": 16410000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1124,
+        "price": 8260000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2343,
+        "price": 27020000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1243,
+        "price": 17680000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1268,
+        "price": 18270000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1156,
+        "price": 10040000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1370,
+        "price": 19790000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1438,
+        "price": 15640000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1743,
+        "price": 14420000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1154,
+        "price": 23960000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1009,
+        "price": 12700000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1438,
+        "price": 26490000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1005,
+        "price": 20960000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1595,
+        "price": 29130000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1437,
+        "price": 12180000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1005,
+        "price": 17130000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 593,
+        "price": 6220000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2712,
+        "price": 53640000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 704,
+        "price": 13790000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 953,
+        "price": 8550000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1173,
+        "price": 10630000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 3933,
+        "price": 57690000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 2251,
+        "price": 25440000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1897,
+        "price": 24710000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 3588,
+        "price": 39070000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 583,
+        "price": 6910000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2328,
+        "price": 20570000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1165,
+        "price": 10340000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2155,
+        "price": 27420000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1573,
+        "price": 11500000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1257,
+        "price": 12950000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 3616,
+        "price": 51030000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 2847,
+        "price": 49010000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 2207,
+        "price": 53430000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 2045,
+        "price": 19160000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1803,
+        "price": 30820000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1210,
+        "price": 15430000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 3781,
+        "price": 54280000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1161,
+        "price": 8940000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1249,
+        "price": 12740000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1374,
+        "price": 21500000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1233,
+        "price": 21350000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1351,
+        "price": 12790000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2183,
+        "price": 37610000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1520,
+        "price": 13160000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1809,
+        "price": 19310000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 875,
+        "price": 8400000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1065,
+        "price": 14300000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1998,
+        "price": 19100000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 2412,
+        "price": 50620000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 904,
+        "price": 6810000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1580,
+        "price": 17330000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1397,
+        "price": 14690000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1258,
+        "price": 17490000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1166,
+        "price": 17280000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 993,
+        "price": 14230000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2673,
+        "price": 25140000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1804,
+        "price": 16580000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1059,
+        "price": 21330000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1932,
+        "price": 27770000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1112,
+        "price": 9900000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1629,
+        "price": 20520000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1906,
+        "price": 19670000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 814,
+        "price": 10090000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 3798,
+        "price": 51930000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1349,
+        "price": 14290000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2467,
+        "price": 57290000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1305,
+        "price": 21690000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1020,
+        "price": 18170000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1908,
+        "price": 23410000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1369,
+        "price": 17580000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1327,
+        "price": 10360000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1343,
+        "price": 14990000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1218,
+        "price": 19470000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1279,
+        "price": 9650000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 2010,
+        "price": 22550000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1208,
+        "price": 10570000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 722,
+        "price": 7440000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1690,
+        "price": 13230000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1707,
+        "price": 18790000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 777,
+        "price": 11690000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1167,
+        "price": 13290000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1163,
+        "price": 9420000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1152,
+        "price": 8670000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 3775,
+        "price": 49410000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 936,
+        "price": 9160000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1471,
+        "price": 19030000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1002,
+        "price": 8610000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2447,
+        "price": 16130000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1540,
+        "price": 22380000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 998,
+        "price": 9790000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1739,
+        "price": 26250000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1324,
+        "price": 12240000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 746,
+        "price": 7230000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1553,
+        "price": 21700000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1643,
+        "price": 32250000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 514,
+        "price": 5050000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1403,
+        "price": 16440000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 876,
+        "price": 9220000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2615,
+        "price": 51380000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1869,
+        "price": 12330000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1740,
+        "price": 13580000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1727,
+        "price": 13820000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1139,
+        "price": 10420000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2559,
+        "price": 27980000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 2162,
+        "price": 21680000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1289,
+        "price": 13930000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1007,
+        "price": 16540000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2366,
+        "price": 28260000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 889,
+        "price": 12520000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1223,
+        "price": 15940000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 820,
+        "price": 6050000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2269,
+        "price": 22260000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 3453,
+        "price": 83110000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1312,
+        "price": 10520000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 983,
+        "price": 17950000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1216,
+        "price": 11300000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1371,
+        "price": 15120000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 948,
+        "price": 13180000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 965,
+        "price": 5860000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2834,
+        "price": 52560000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1774,
+        "price": 16220000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 937,
+        "price": 17020000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1295,
+        "price": 20610000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1517,
+        "price": 27310000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1170,
+        "price": 18290000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 3475,
+        "price": 40170000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1097,
+        "price": 10600000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1274,
+        "price": 15600000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1000,
+        "price": 10480000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1604,
+        "price": 13400000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1898,
+        "price": 16050000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1334,
+        "price": 9550000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1319,
+        "price": 13580000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1702,
+        "price": 19910000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1469,
+        "price": 21290000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 973,
+        "price": 10200000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1553,
+        "price": 20960000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1896,
+        "price": 25300000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1754,
+        "price": 21210000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1226,
+        "price": 8160000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1423,
+        "price": 11190000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1563,
+        "price": 19040000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1012,
+        "price": 7790000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 3159,
+        "price": 47680000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1496,
+        "price": 19040000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 630,
+        "price": 7330000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2018,
+        "price": 14780000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1356,
+        "price": 12530000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1359,
+        "price": 11330000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1520,
+        "price": 14020000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 3379,
+        "price": 32400000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1089,
+        "price": 10310000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1277,
+        "price": 8340000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2774,
+        "price": 30240000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1600,
+        "price": 16790000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 3129,
+        "price": 49110000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1794,
+        "price": 35730000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1562,
+        "price": 17750000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1692,
+        "price": 17140000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1439,
+        "price": 22960000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1481,
+        "price": 11340000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 4045,
+        "price": 71290000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1672,
+        "price": 11420000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 679,
+        "price": 8860000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 3116,
+        "price": 44200000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1597,
+        "price": 18650000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 2042,
+        "price": 22920000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1393,
+        "price": 8380000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 643,
+        "price": 5920000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 3913,
+        "price": 57520000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 2155,
+        "price": 32130000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1499,
+        "price": 12340000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1769,
+        "price": 31740000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 2013,
+        "price": 24320000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1294,
+        "price": 13030000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1306,
+        "price": 23870000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1217,
+        "price": 10860000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 2124,
+        "price": 14390000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 500,
+        "price": 4680000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1656,
+        "price": 24740000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1322,
+        "price": 13190000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2831,
+        "price": 68500000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1181,
+        "price": 13250000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1000,
+        "price": 21270000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1036,
+        "price": 14930000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 2581,
+        "price": 38340000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1178,
+        "price": 20640000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2379,
+        "price": 43410000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 791,
+        "price": 5950000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1797,
+        "price": 29870000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1093,
+        "price": 8920000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1129,
+        "price": 10140000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2346,
+        "price": 32060000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1326,
+        "price": 14270000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1012,
+        "price": 8440000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 662,
+        "price": 9370000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 690,
+        "price": 8250000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 881,
+        "price": 9650000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1365,
+        "price": 15590000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 802,
+        "price": 6630000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1127,
+        "price": 7950000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2673,
+        "price": 29310000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1416,
+        "price": 19970000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2266,
+        "price": 30430000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1676,
+        "price": 22610000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 663,
+        "price": 12770000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1256,
+        "price": 12250000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1543,
+        "price": 20310000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1303,
+        "price": 19270000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 930,
+        "price": 16570000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2848,
+        "price": 40050000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1877,
+        "price": 19100000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 992,
+        "price": 9050000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1441,
+        "price": 15820000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 648,
+        "price": 13740000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1294,
+        "price": 20400000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 611,
+        "price": 10790000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1226,
+        "price": 17710000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1077,
+        "price": 19620000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1605,
+        "price": 16610000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 3619,
+        "price": 73560000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 2752,
+        "price": 45250000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1404,
+        "price": 26500000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1119,
+        "price": 7550000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1577,
+        "price": 10650000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1986,
+        "price": 13670000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1889,
+        "price": 14930000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1690,
+        "price": 18140000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1687,
+        "price": 32130000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 912,
+        "price": 6450000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1353,
+        "price": 28430000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1178,
+        "price": 11380000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 856,
+        "price": 7310000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1053,
+        "price": 14500000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1424,
+        "price": 16620000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1091,
+        "price": 8780000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1324,
+        "price": 12350000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1133,
+        "price": 16290000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2048,
+        "price": 21000000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1941,
+        "price": 21060000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1214,
+        "price": 10420000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1357,
+        "price": 14730000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1002,
+        "price": 8940000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 3420,
+        "price": 38600000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 983,
+        "price": 10470000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 932,
+        "price": 11560000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1443,
+        "price": 12710000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1841,
+        "price": 16990000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 2097,
+        "price": 22430000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1999,
+        "price": 26670000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1307,
+        "price": 26340000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 967,
+        "price": 12560000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 2482,
+        "price": 31520000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 936,
+        "price": 5610000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2247,
+        "price": 37560000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1397,
+        "price": 12960000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 3593,
+        "price": 55850000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1205,
+        "price": 15000000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1114,
+        "price": 9710000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1855,
+        "price": 18050000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 783,
+        "price": 11020000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1629,
+        "price": 16450000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1787,
+        "price": 25390000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1092,
+        "price": 9830000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 2459,
+        "price": 28680000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1623,
+        "price": 28210000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1233,
+        "price": 15210000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 994,
+        "price": 10640000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1852,
+        "price": 21870000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1137,
+        "price": 17770000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1159,
+        "price": 11100000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1892,
+        "price": 31020000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1586,
+        "price": 16320000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1470,
+        "price": 14180000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1653,
+        "price": 25440000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2071,
+        "price": 18440000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1568,
+        "price": 22440000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1149,
+        "price": 21940000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 933,
+        "price": 7770000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 971,
+        "price": 16330000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1389,
+        "price": 16090000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2230,
+        "price": 28350000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 2505,
+        "price": 29790000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 3123,
+        "price": 42090000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1650,
+        "price": 24500000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1492,
+        "price": 10700000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1945,
+        "price": 32470000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 2598,
+        "price": 24700000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 2165,
+        "price": 31940000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1942,
+        "price": 23330000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 2657,
+        "price": 31820000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 500,
+        "price": 3580000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1649,
+        "price": 11100000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1529,
+        "price": 21540000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1172,
+        "price": 16480000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1362,
+        "price": 16550000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1365,
+        "price": 26290000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 2147,
+        "price": 26630000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 2190,
+        "price": 26440000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 4080,
+        "price": 45150000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1121,
+        "price": 12040000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 2357,
+        "price": 20020000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 1389,
+        "price": 32450000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1333,
+        "price": 14740000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1697,
+        "price": 22800000,
+        "property_type": "Independent House"
+      },
+      {
+        "area": 3298,
+        "price": 48690000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 1546,
+        "price": 17580000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 1361,
+        "price": 11190000,
+        "property_type": "Apartment"
+      },
+      {
+        "area": 3214,
+        "price": 44760000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 2973,
+        "price": 40240000,
+        "property_type": "Villa"
+      },
+      {
+        "area": 2569,
+        "price": 32440000,
+        "property_type": "Independent House"
+      }
+    ]
+  },
+  "correlation": {
+    "columns": [
+      "area",
+      "bedrooms",
+      "bathrooms",
+      "floors",
+      "parking",
+      "property_age",
+      "price"
+    ],
+    "matrix": [
+      [
+        1.0,
+        0.97,
+        0.893,
+        0.245,
+        0.321,
+        0.009,
+        0.834
+      ],
+      [
+        0.97,
+        1.0,
+        0.922,
+        0.243,
+        0.314,
+        0.002,
+        0.812
+      ],
+      [
+        0.893,
+        0.922,
+        1.0,
+        0.227,
+        0.285,
+        0.008,
+        0.75
+      ],
+      [
+        0.245,
+        0.243,
+        0.227,
+        1.0,
+        0.085,
+        0.009,
+        0.219
+      ],
+      [
+        0.321,
+        0.314,
+        0.285,
+        0.085,
+        1.0,
+        0.001,
+        0.306
+      ],
+      [
+        0.009,
+        0.002,
+        0.008,
+        0.009,
+        0.001,
+        1.0,
+        -0.184
+      ],
+      [
+        0.834,
+        0.812,
+        0.75,
+        0.219,
+        0.306,
+        -0.184,
+        1.0
+      ]
+    ]
+  },
+  "avg_price_by_location": [
+    {
+      "location": "Mumbai",
+      "avg_price": 28733760.33,
+      "count": 1210
+    },
+    {
+      "location": "Delhi",
+      "avg_price": 22985796.46,
+      "count": 904
+    },
+    {
+      "location": "Bangalore",
+      "avg_price": 19044803.06,
+      "count": 914
+    },
+    {
+      "location": "Chennai",
+      "avg_price": 18975284.87,
+      "count": 509
+    },
+    {
+      "location": "Pune",
+      "avg_price": 17454637.44,
+      "count": 593
+    },
+    {
+      "location": "Hyderabad",
+      "avg_price": 16190249.48,
+      "count": 481
+    },
+    {
+      "location": "Kolkata",
+      "avg_price": 13359575.07,
+      "count": 353
+    }
+  ],
+  "actual_vs_predicted": {
+    "sample_size": 300,
+    "r2": 0.9483,
+    "points": [
+      {
+        "actual": 3580000.0,
+        "predicted": 4256135.12
+      },
+      {
+        "actual": 5870000.0,
+        "predicted": 5668677.08
+      },
+      {
+        "actual": 5960000.0,
+        "predicted": 7201468.93
+      },
+      {
+        "actual": 6000000.0,
+        "predicted": 5492036.01
+      },
+      {
+        "actual": 6030000.0,
+        "predicted": 6342216.07
+      },
+      {
+        "actual": 6300000.0,
+        "predicted": 7073997.32
+      },
+      {
+        "actual": 6440000.0,
+        "predicted": 7308045.14
+      },
+      {
+        "actual": 6450000.0,
+        "predicted": 6303181.55
+      },
+      {
+        "actual": 6450000.0,
+        "predicted": 7269962.25
+      },
+      {
+        "actual": 6910000.0,
+        "predicted": 6831999.5
+      },
+      {
+        "actual": 7140000.0,
+        "predicted": 7360628.08
+      },
+      {
+        "actual": 7140000.0,
+        "predicted": 7683813.81
+      },
+      {
+        "actual": 7170000.0,
+        "predicted": 7089520.12
+      },
+      {
+        "actual": 7620000.0,
+        "predicted": 8404605.75
+      },
+      {
+        "actual": 7660000.0,
+        "predicted": 8315971.11
+      },
+      {
+        "actual": 7880000.0,
+        "predicted": 8402293.06
+      },
+      {
+        "actual": 7880000.0,
+        "predicted": 8613271.28
+      },
+      {
+        "actual": 8250000.0,
+        "predicted": 9516347.7
+      },
+      {
+        "actual": 8340000.0,
+        "predicted": 9255939.48
+      },
+      {
+        "actual": 8380000.0,
+        "predicted": 9565500.74
+      },
+      {
+        "actual": 8490000.0,
+        "predicted": 7977141.44
+      },
+      {
+        "actual": 8680000.0,
+        "predicted": 7850589.75
+      },
+      {
+        "actual": 8750000.0,
+        "predicted": 8314268.6
+      },
+      {
+        "actual": 8780000.0,
+        "predicted": 8901392.31
+      },
+      {
+        "actual": 8810000.0,
+        "predicted": 11192640.43
+      },
+      {
+        "actual": 8920000.0,
+        "predicted": 8553272.97
+      },
+      {
+        "actual": 8930000.0,
+        "predicted": 9214988.21
+      },
+      {
+        "actual": 8940000.0,
+        "predicted": 9632240.87
+      },
+      {
+        "actual": 8990000.0,
+        "predicted": 8213561.36
+      },
+      {
+        "actual": 9280000.0,
+        "predicted": 9623482.49
+      },
+      {
+        "actual": 9350000.0,
+        "predicted": 11963644.44
+      },
+      {
+        "actual": 9370000.0,
+        "predicted": 8713360.42
+      },
+      {
+        "actual": 9410000.0,
+        "predicted": 8825199.26
+      },
+      {
+        "actual": 9450000.0,
+        "predicted": 8968174.57
+      },
+      {
+        "actual": 9490000.0,
+        "predicted": 8413817.11
+      },
+      {
+        "actual": 9550000.0,
+        "predicted": 11467664.47
+      },
+      {
+        "actual": 9690000.0,
+        "predicted": 10773843.3
+      },
+      {
+        "actual": 9750000.0,
+        "predicted": 11187403.79
+      },
+      {
+        "actual": 9790000.0,
+        "predicted": 10863283.38
+      },
+      {
+        "actual": 10040000.0,
+        "predicted": 10805493.73
+      },
+      {
+        "actual": 10270000.0,
+        "predicted": 12213748.93
+      },
+      {
+        "actual": 10310000.0,
+        "predicted": 9236985.47
+      },
+      {
+        "actual": 10340000.0,
+        "predicted": 9982014.2
+      },
+      {
+        "actual": 10380000.0,
+        "predicted": 12016299.36
+      },
+      {
+        "actual": 10480000.0,
+        "predicted": 9208088.03
+      },
+      {
+        "actual": 10500000.0,
+        "predicted": 10086356.81
+      },
+      {
+        "actual": 10580000.0,
+        "predicted": 11114503.87
+      },
+      {
+        "actual": 10630000.0,
+        "predicted": 10307963.43
+      },
+      {
+        "actual": 10640000.0,
+        "predicted": 10956336.39
+      },
+      {
+        "actual": 10900000.0,
+        "predicted": 11057723.2
+      },
+      {
+        "actual": 10980000.0,
+        "predicted": 12185860.48
+      },
+      {
+        "actual": 10980000.0,
+        "predicted": 11054420.63
+      },
+      {
+        "actual": 11000000.0,
+        "predicted": 16033567.91
+      },
+      {
+        "actual": 11100000.0,
+        "predicted": 10765685.2
+      },
+      {
+        "actual": 11100000.0,
+        "predicted": 11077535.85
+      },
+      {
+        "actual": 11190000.0,
+        "predicted": 10853452.2
+      },
+      {
+        "actual": 11190000.0,
+        "predicted": 11801070.77
+      },
+      {
+        "actual": 11260000.0,
+        "predicted": 11397672.6
+      },
+      {
+        "actual": 11270000.0,
+        "predicted": 11182697.26
+      },
+      {
+        "actual": 11310000.0,
+        "predicted": 12827320.65
+      },
+      {
+        "actual": 11380000.0,
+        "predicted": 9383269.79
+      },
+      {
+        "actual": 11500000.0,
+        "predicted": 13705968.9
+      },
+      {
+        "actual": 11620000.0,
+        "predicted": 11516042.39
+      },
+      {
+        "actual": 11850000.0,
+        "predicted": 12779669.05
+      },
+      {
+        "actual": 11950000.0,
+        "predicted": 12775587.65
+      },
+      {
+        "actual": 11970000.0,
+        "predicted": 11975764.98
+      },
+      {
+        "actual": 12040000.0,
+        "predicted": 11368236.94
+      },
+      {
+        "actual": 12050000.0,
+        "predicted": 13256252.23
+      },
+      {
+        "actual": 12200000.0,
+        "predicted": 11463745.02
+      },
+      {
+        "actual": 12440000.0,
+        "predicted": 11323018.65
+      },
+      {
+        "actual": 12500000.0,
+        "predicted": 14194296.2
+      },
+      {
+        "actual": 12500000.0,
+        "predicted": 14201814.14
+      },
+      {
+        "actual": 12520000.0,
+        "predicted": 12694351.24
+      },
+      {
+        "actual": 12640000.0,
+        "predicted": 11886988.81
+      },
+      {
+        "actual": 12750000.0,
+        "predicted": 17073049.45
+      },
+      {
+        "actual": 12790000.0,
+        "predicted": 13896321.48
+      },
+      {
+        "actual": 12890000.0,
+        "predicted": 12552471.33
+      },
+      {
+        "actual": 12960000.0,
+        "predicted": 11852660.91
+      },
+      {
+        "actual": 12960000.0,
+        "predicted": 13008302.02
+      },
+      {
+        "actual": 13030000.0,
+        "predicted": 12300586.92
+      },
+      {
+        "actual": 13040000.0,
+        "predicted": 13533027.28
+      },
+      {
+        "actual": 13040000.0,
+        "predicted": 16334724.76
+      },
+      {
+        "actual": 13060000.0,
+        "predicted": 14653504.56
+      },
+      {
+        "actual": 13060000.0,
+        "predicted": 15298259.92
+      },
+      {
+        "actual": 13200000.0,
+        "predicted": 12447434.67
+      },
+      {
+        "actual": 13270000.0,
+        "predicted": 13523944.16
+      },
+      {
+        "actual": 13520000.0,
+        "predicted": 12088488.14
+      },
+      {
+        "actual": 13530000.0,
+        "predicted": 14862003.06
+      },
+      {
+        "actual": 13580000.0,
+        "predicted": 14155883.63
+      },
+      {
+        "actual": 13640000.0,
+        "predicted": 15256606.55
+      },
+      {
+        "actual": 13650000.0,
+        "predicted": 12234669.78
+      },
+      {
+        "actual": 13690000.0,
+        "predicted": 14785971.13
+      },
+      {
+        "actual": 13770000.0,
+        "predicted": 14109110.66
+      },
+      {
+        "actual": 13770000.0,
+        "predicted": 12542527.26
+      },
+      {
+        "actual": 13820000.0,
+        "predicted": 13299066.44
+      },
+      {
+        "actual": 13820000.0,
+        "predicted": 14341004.23
+      },
+      {
+        "actual": 13840000.0,
+        "predicted": 12786035.75
+      },
+      {
+        "actual": 13860000.0,
+        "predicted": 13096068.6
+      },
+      {
+        "actual": 13900000.0,
+        "predicted": 13772176.74
+      },
+      {
+        "actual": 14020000.0,
+        "predicted": 14113910.76
+      },
+      {
+        "actual": 14020000.0,
+        "predicted": 12416302.55
+      },
+      {
+        "actual": 14040000.0,
+        "predicted": 14733608.68
+      },
+      {
+        "actual": 14070000.0,
+        "predicted": 16865686.11
+      },
+      {
+        "actual": 14080000.0,
+        "predicted": 15319181.98
+      },
+      {
+        "actual": 14180000.0,
+        "predicted": 12731036.71
+      },
+      {
+        "actual": 14190000.0,
+        "predicted": 14386239.95
+      },
+      {
+        "actual": 14250000.0,
+        "predicted": 14133289.22
+      },
+      {
+        "actual": 14270000.0,
+        "predicted": 14599757.9
+      },
+      {
+        "actual": 14290000.0,
+        "predicted": 13771939.38
+      },
+      {
+        "actual": 14470000.0,
+        "predicted": 13621008.33
+      },
+      {
+        "actual": 14500000.0,
+        "predicted": 16030184.54
+      },
+      {
+        "actual": 14510000.0,
+        "predicted": 14231467.66
+      },
+      {
+        "actual": 14620000.0,
+        "predicted": 13174602.66
+      },
+      {
+        "actual": 14660000.0,
+        "predicted": 16465736.06
+      },
+      {
+        "actual": 14670000.0,
+        "predicted": 15906579.22
+      },
+      {
+        "actual": 14690000.0,
+        "predicted": 13509669.31
+      },
+      {
+        "actual": 14730000.0,
+        "predicted": 14568230.61
+      },
+      {
+        "actual": 14780000.0,
+        "predicted": 15430808.09
+      },
+      {
+        "actual": 14780000.0,
+        "predicted": 13881113.53
+      },
+      {
+        "actual": 14930000.0,
+        "predicted": 15747582.59
+      },
+      {
+        "actual": 14930000.0,
+        "predicted": 16146502.81
+      },
+      {
+        "actual": 14930000.0,
+        "predicted": 15281048.51
+      },
+      {
+        "actual": 14970000.0,
+        "predicted": 17380382.99
+      },
+      {
+        "actual": 15000000.0,
+        "predicted": 16783843.01
+      },
+      {
+        "actual": 15050000.0,
+        "predicted": 14302516.91
+      },
+      {
+        "actual": 15120000.0,
+        "predicted": 14789300.89
+      },
+      {
+        "actual": 15130000.0,
+        "predicted": 13870685.17
+      },
+      {
+        "actual": 15210000.0,
+        "predicted": 12727295.59
+      },
+      {
+        "actual": 15430000.0,
+        "predicted": 17432747.69
+      },
+      {
+        "actual": 15580000.0,
+        "predicted": 19133847.12
+      },
+      {
+        "actual": 15590000.0,
+        "predicted": 15956347.82
+      },
+      {
+        "actual": 15600000.0,
+        "predicted": 16957612.68
+      },
+      {
+        "actual": 15640000.0,
+        "predicted": 16459255.21
+      },
+      {
+        "actual": 15820000.0,
+        "predicted": 12857241.07
+      },
+      {
+        "actual": 15910000.0,
+        "predicted": 16324443.55
+      },
+      {
+        "actual": 15940000.0,
+        "predicted": 17668558.19
+      },
+      {
+        "actual": 16090000.0,
+        "predicted": 15122056.23
+      },
+      {
+        "actual": 16120000.0,
+        "predicted": 16789609.04
+      },
+      {
+        "actual": 16210000.0,
+        "predicted": 17690500.23
+      },
+      {
+        "actual": 16320000.0,
+        "predicted": 17237848.02
+      },
+      {
+        "actual": 16340000.0,
+        "predicted": 15372797.67
+      },
+      {
+        "actual": 16450000.0,
+        "predicted": 14432712.2
+      },
+      {
+        "actual": 16480000.0,
+        "predicted": 14271027.38
+      },
+      {
+        "actual": 16540000.0,
+        "predicted": 17912178.72
+      },
+      {
+        "actual": 16620000.0,
+        "predicted": 15058721.53
+      },
+      {
+        "actual": 16780000.0,
+        "predicted": 16280940.2
+      },
+      {
+        "actual": 16900000.0,
+        "predicted": 14264438.05
+      },
+      {
+        "actual": 17030000.0,
+        "predicted": 14959484.82
+      },
+      {
+        "actual": 17210000.0,
+        "predicted": 17850302.38
+      },
+      {
+        "actual": 17420000.0,
+        "predicted": 19383032.66
+      },
+      {
+        "actual": 17680000.0,
+        "predicted": 16740336.36
+      },
+      {
+        "actual": 17710000.0,
+        "predicted": 17022455.61
+      },
+      {
+        "actual": 17730000.0,
+        "predicted": 16253427.48
+      },
+      {
+        "actual": 17950000.0,
+        "predicted": 19225956.88
+      },
+      {
+        "actual": 17970000.0,
+        "predicted": 17614543.42
+      },
+      {
+        "actual": 18140000.0,
+        "predicted": 16452129.26
+      },
+      {
+        "actual": 18240000.0,
+        "predicted": 19065260.22
+      },
+      {
+        "actual": 18270000.0,
+        "predicted": 20930827.7
+      },
+      {
+        "actual": 18290000.0,
+        "predicted": 15853847.02
+      },
+      {
+        "actual": 18290000.0,
+        "predicted": 22754501.29
+      },
+      {
+        "actual": 18390000.0,
+        "predicted": 12995154.73
+      },
+      {
+        "actual": 18570000.0,
+        "predicted": 21160375.69
+      },
+      {
+        "actual": 18650000.0,
+        "predicted": 17722240.1
+      },
+      {
+        "actual": 18710000.0,
+        "predicted": 17440600.17
+      },
+      {
+        "actual": 19030000.0,
+        "predicted": 17742565.83
+      },
+      {
+        "actual": 19040000.0,
+        "predicted": 16695590.03
+      },
+      {
+        "actual": 19100000.0,
+        "predicted": 18446972.12
+      },
+      {
+        "actual": 19100000.0,
+        "predicted": 20247609.67
+      },
+      {
+        "actual": 19130000.0,
+        "predicted": 19292376.65
+      },
+      {
+        "actual": 19360000.0,
+        "predicted": 17348069.39
+      },
+      {
+        "actual": 19440000.0,
+        "predicted": 20305342.0
+      },
+      {
+        "actual": 19470000.0,
+        "predicted": 23503226.39
+      },
+      {
+        "actual": 19630000.0,
+        "predicted": 22291150.45
+      },
+      {
+        "actual": 19630000.0,
+        "predicted": 21675771.56
+      },
+      {
+        "actual": 19640000.0,
+        "predicted": 20519509.33
+      },
+      {
+        "actual": 19670000.0,
+        "predicted": 17746515.44
+      },
+      {
+        "actual": 19790000.0,
+        "predicted": 20364383.28
+      },
+      {
+        "actual": 19840000.0,
+        "predicted": 20875490.92
+      },
+      {
+        "actual": 19860000.0,
+        "predicted": 15270563.44
+      },
+      {
+        "actual": 19900000.0,
+        "predicted": 22525980.39
+      },
+      {
+        "actual": 20010000.0,
+        "predicted": 18806076.87
+      },
+      {
+        "actual": 20020000.0,
+        "predicted": 17833345.62
+      },
+      {
+        "actual": 20100000.0,
+        "predicted": 21499505.46
+      },
+      {
+        "actual": 20150000.0,
+        "predicted": 17758525.05
+      },
+      {
+        "actual": 20200000.0,
+        "predicted": 17893139.3
+      },
+      {
+        "actual": 20260000.0,
+        "predicted": 21556606.04
+      },
+      {
+        "actual": 20350000.0,
+        "predicted": 22927705.69
+      },
+      {
+        "actual": 20570000.0,
+        "predicted": 22308708.99
+      },
+      {
+        "actual": 20630000.0,
+        "predicted": 21364587.15
+      },
+      {
+        "actual": 20830000.0,
+        "predicted": 22663008.33
+      },
+      {
+        "actual": 20860000.0,
+        "predicted": 18947901.32
+      },
+      {
+        "actual": 20930000.0,
+        "predicted": 21198336.54
+      },
+      {
+        "actual": 21040000.0,
+        "predicted": 14544850.41
+      },
+      {
+        "actual": 21070000.0,
+        "predicted": 24152376.07
+      },
+      {
+        "actual": 21110000.0,
+        "predicted": 20110963.26
+      },
+      {
+        "actual": 21200000.0,
+        "predicted": 21824831.3
+      },
+      {
+        "actual": 21210000.0,
+        "predicted": 20683229.27
+      },
+      {
+        "actual": 21270000.0,
+        "predicted": 20058121.81
+      },
+      {
+        "actual": 21290000.0,
+        "predicted": 22447210.71
+      },
+      {
+        "actual": 21350000.0,
+        "predicted": 18349450.64
+      },
+      {
+        "actual": 21390000.0,
+        "predicted": 19446829.91
+      },
+      {
+        "actual": 21540000.0,
+        "predicted": 20343779.89
+      },
+      {
+        "actual": 21700000.0,
+        "predicted": 20518697.49
+      },
+      {
+        "actual": 21730000.0,
+        "predicted": 23931960.78
+      },
+      {
+        "actual": 21850000.0,
+        "predicted": 19301916.02
+      },
+      {
+        "actual": 21890000.0,
+        "predicted": 21957358.47
+      },
+      {
+        "actual": 22220000.0,
+        "predicted": 22853467.28
+      },
+      {
+        "actual": 22260000.0,
+        "predicted": 25289414.58
+      },
+      {
+        "actual": 22430000.0,
+        "predicted": 22164753.17
+      },
+      {
+        "actual": 22430000.0,
+        "predicted": 21282749.47
+      },
+      {
+        "actual": 22530000.0,
+        "predicted": 22394921.87
+      },
+      {
+        "actual": 22610000.0,
+        "predicted": 21748158.63
+      },
+      {
+        "actual": 22800000.0,
+        "predicted": 21892832.72
+      },
+      {
+        "actual": 23300000.0,
+        "predicted": 28212694.25
+      },
+      {
+        "actual": 23350000.0,
+        "predicted": 24158104.62
+      },
+      {
+        "actual": 23410000.0,
+        "predicted": 22918246.87
+      },
+      {
+        "actual": 23530000.0,
+        "predicted": 27261013.23
+      },
+      {
+        "actual": 23730000.0,
+        "predicted": 22373243.8
+      },
+      {
+        "actual": 23770000.0,
+        "predicted": 22307364.21
+      },
+      {
+        "actual": 23830000.0,
+        "predicted": 26123063.34
+      },
+      {
+        "actual": 23870000.0,
+        "predicted": 18764813.0
+      },
+      {
+        "actual": 23960000.0,
+        "predicted": 24250009.03
+      },
+      {
+        "actual": 24750000.0,
+        "predicted": 26076346.71
+      },
+      {
+        "actual": 25440000.0,
+        "predicted": 22641549.85
+      },
+      {
+        "actual": 25550000.0,
+        "predicted": 25020111.62
+      },
+      {
+        "actual": 25720000.0,
+        "predicted": 31523789.14
+      },
+      {
+        "actual": 25760000.0,
+        "predicted": 23895501.04
+      },
+      {
+        "actual": 26080000.0,
+        "predicted": 27561060.86
+      },
+      {
+        "actual": 26180000.0,
+        "predicted": 27403664.75
+      },
+      {
+        "actual": 26440000.0,
+        "predicted": 23346086.24
+      },
+      {
+        "actual": 26580000.0,
+        "predicted": 25626084.62
+      },
+      {
+        "actual": 26630000.0,
+        "predicted": 24421367.05
+      },
+      {
+        "actual": 27280000.0,
+        "predicted": 24728214.32
+      },
+      {
+        "actual": 27770000.0,
+        "predicted": 24676069.99
+      },
+      {
+        "actual": 27820000.0,
+        "predicted": 26852891.77
+      },
+      {
+        "actual": 27940000.0,
+        "predicted": 27500247.07
+      },
+      {
+        "actual": 27990000.0,
+        "predicted": 31007158.12
+      },
+      {
+        "actual": 28040000.0,
+        "predicted": 28415127.25
+      },
+      {
+        "actual": 28130000.0,
+        "predicted": 25033968.82
+      },
+      {
+        "actual": 28210000.0,
+        "predicted": 29080533.88
+      },
+      {
+        "actual": 28220000.0,
+        "predicted": 30830616.32
+      },
+      {
+        "actual": 28310000.0,
+        "predicted": 27686558.66
+      },
+      {
+        "actual": 28530000.0,
+        "predicted": 30338516.82
+      },
+      {
+        "actual": 28680000.0,
+        "predicted": 26059199.93
+      },
+      {
+        "actual": 28760000.0,
+        "predicted": 30829448.69
+      },
+      {
+        "actual": 28930000.0,
+        "predicted": 25028315.28
+      },
+      {
+        "actual": 29310000.0,
+        "predicted": 29913179.56
+      },
+      {
+        "actual": 29820000.0,
+        "predicted": 27621235.52
+      },
+      {
+        "actual": 29870000.0,
+        "predicted": 27786754.75
+      },
+      {
+        "actual": 30030000.0,
+        "predicted": 31322529.65
+      },
+      {
+        "actual": 30470000.0,
+        "predicted": 28592797.95
+      },
+      {
+        "actual": 30640000.0,
+        "predicted": 30881431.5
+      },
+      {
+        "actual": 31780000.0,
+        "predicted": 25559319.49
+      },
+      {
+        "actual": 32300000.0,
+        "predicted": 28915748.86
+      },
+      {
+        "actual": 32400000.0,
+        "predicted": 35682057.77
+      },
+      {
+        "actual": 32840000.0,
+        "predicted": 36626946.97
+      },
+      {
+        "actual": 33050000.0,
+        "predicted": 37883892.71
+      },
+      {
+        "actual": 33520000.0,
+        "predicted": 35031552.03
+      },
+      {
+        "actual": 33880000.0,
+        "predicted": 35562597.82
+      },
+      {
+        "actual": 35280000.0,
+        "predicted": 36605905.59
+      },
+      {
+        "actual": 36260000.0,
+        "predicted": 36166410.45
+      },
+      {
+        "actual": 36600000.0,
+        "predicted": 33303955.22
+      },
+      {
+        "actual": 37060000.0,
+        "predicted": 32566827.53
+      },
+      {
+        "actual": 37250000.0,
+        "predicted": 40833336.81
+      },
+      {
+        "actual": 37560000.0,
+        "predicted": 36796283.2
+      },
+      {
+        "actual": 38960000.0,
+        "predicted": 48406745.5
+      },
+      {
+        "actual": 40170000.0,
+        "predicted": 38509270.63
+      },
+      {
+        "actual": 40330000.0,
+        "predicted": 39223172.82
+      },
+      {
+        "actual": 41230000.0,
+        "predicted": 45367460.96
+      },
+      {
+        "actual": 41240000.0,
+        "predicted": 39955220.72
+      },
+      {
+        "actual": 43440000.0,
+        "predicted": 47336110.66
+      },
+      {
+        "actual": 43610000.0,
+        "predicted": 35689824.45
+      },
+      {
+        "actual": 44110000.0,
+        "predicted": 47067588.7
+      },
+      {
+        "actual": 45020000.0,
+        "predicted": 43495825.12
+      },
+      {
+        "actual": 45150000.0,
+        "predicted": 45893542.31
+      },
+      {
+        "actual": 45250000.0,
+        "predicted": 45042685.95
+      },
+      {
+        "actual": 46950000.0,
+        "predicted": 47789671.58
+      },
+      {
+        "actual": 47680000.0,
+        "predicted": 43222370.4
+      },
+      {
+        "actual": 49010000.0,
+        "predicted": 44237164.98
+      },
+      {
+        "actual": 51380000.0,
+        "predicted": 49142893.96
+      },
+      {
+        "actual": 51540000.0,
+        "predicted": 46857088.1
+      },
+      {
+        "actual": 52440000.0,
+        "predicted": 56517097.87
+      },
+      {
+        "actual": 53090000.0,
+        "predicted": 50932007.84
+      },
+      {
+        "actual": 53490000.0,
+        "predicted": 41352355.99
+      },
+      {
+        "actual": 53870000.0,
+        "predicted": 54949602.73
+      },
+      {
+        "actual": 54770000.0,
+        "predicted": 62661640.39
+      },
+      {
+        "actual": 55860000.0,
+        "predicted": 49335224.01
+      },
+      {
+        "actual": 57520000.0,
+        "predicted": 53387038.11
+      },
+      {
+        "actual": 57690000.0,
+        "predicted": 54579292.58
+      },
+      {
+        "actual": 57900000.0,
+        "predicted": 58921291.82
+      },
+      {
+        "actual": 59620000.0,
+        "predicted": 49412093.98
+      },
+      {
+        "actual": 60010000.0,
+        "predicted": 52731138.81
+      },
+      {
+        "actual": 61230000.0,
+        "predicted": 69399210.81
+      },
+      {
+        "actual": 67540000.0,
+        "predicted": 61485610.71
+      },
+      {
+        "actual": 67830000.0,
+        "predicted": 78146539.19
+      },
+      {
+        "actual": 69830000.0,
+        "predicted": 76122016.9
+      },
+      {
+        "actual": 69870000.0,
+        "predicted": 58112721.21
+      },
+      {
+        "actual": 71200000.0,
+        "predicted": 72768866.67
+      },
+      {
+        "actual": 73560000.0,
+        "predicted": 85825706.8
+      },
+      {
+        "actual": 76660000.0,
+        "predicted": 68663275.23
+      }
+    ]
+  },
+  "price_per_sqft_by_location": [
+    {
+      "location": "Mumbai",
+      "price_per_sqft": 17245.01
+    },
+    {
+      "location": "Delhi",
+      "price_per_sqft": 13394.63
+    },
+    {
+      "location": "Bangalore",
+      "price_per_sqft": 11178.94
+    },
+    {
+      "location": "Chennai",
+      "price_per_sqft": 10392.53
+    },
+    {
+      "location": "Pune",
+      "price_per_sqft": 9887.15
+    },
+    {
+      "location": "Hyderabad",
+      "price_per_sqft": 9476.33
+    },
+    {
+      "location": "Kolkata",
+      "price_per_sqft": 7950.89
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+venv/
+.venv/
+env/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ---------- Node / frontend ----------
+node_modules/
+dist/
+.vite/
+*.local
+npm-debug.log*
+yarn-error.log*
+
+# ---------- Environment & secrets ----------
+.env
+.env.*
+!.env.example
+
+# ---------- OS / editor ----------
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# ---------- Model artifacts (regenerate with `python -m ml.train`) ----------
+backend/models/*.joblib
+
+# ---------- Keep placeholders ----------
+!backend/models/.gitkeep
+!backend/data/.gitkeep

@@ -1,0 +1,70 @@
+@import "tailwindcss";
+
+/* ------------------------------------------------------------------ */
+/* Design tokens (Tailwind v4 theme)                                   */
+/* ------------------------------------------------------------------ */
+@theme {
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+}
+
+/* ------------------------------------------------------------------ */
+/* Base                                                                */
+/* ------------------------------------------------------------------ */
+@layer base {
+  html {
+    @apply antialiased;
+  }
+  body {
+    @apply bg-slate-950 text-slate-200;
+    background-image:
+      radial-gradient(60rem 32rem at 85% -10%, rgba(16, 185, 129, 0.09), transparent 60%),
+      radial-gradient(50rem 30rem at -10% 25%, rgba(14, 165, 233, 0.08), transparent 60%);
+    background-attachment: fixed;
+  }
+  ::selection {
+    @apply bg-emerald-500/30 text-white;
+  }
+}
+
+/* ------------------------------------------------------------------ */
+/* Reusable component classes                                          */
+/* ------------------------------------------------------------------ */
+@layer components {
+  .glass-card {
+    @apply rounded-2xl border border-white/10 bg-white/[0.04] shadow-lg shadow-black/20 backdrop-blur-sm;
+  }
+
+  .text-gradient {
+    @apply bg-gradient-to-r from-emerald-300 via-teal-200 to-sky-300 bg-clip-text text-transparent;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl bg-emerald-500 px-5 py-2.5
+      text-sm font-semibold text-slate-950 transition-colors duration-200
+      hover:bg-emerald-400 focus-visible:outline-2 focus-visible:outline-offset-2
+      focus-visible:outline-emerald-400 disabled:cursor-not-allowed disabled:opacity-60;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl border border-white/15
+      bg-white/5 px-5 py-2.5 text-sm font-semibold text-slate-100 transition-colors
+      duration-200 hover:border-white/30 hover:bg-white/10 focus-visible:outline-2
+      focus-visible:outline-offset-2 focus-visible:outline-sky-400
+      disabled:cursor-not-allowed disabled:opacity-60;
+  }
+
+  .input-base {
+    @apply w-full rounded-xl border border-white/10 bg-slate-900/70 px-3.5 py-2.5 text-sm
+      text-slate-100 placeholder-slate-500 transition-colors focus:border-emerald-400/60
+      focus:outline-none focus:ring-2 focus:ring-emerald-500/25;
+  }
+
+  .input-error {
+    @apply border-rose-500/70 focus:border-rose-500 focus:ring-rose-500/25;
+  }
+
+  .skeleton {
+    @apply animate-pulse rounded-xl bg-white/[0.07];
+  }
+}

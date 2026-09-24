@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-09-24T12:52:02.417998+00:00",
+  "selection_metric": "R2",
+  "selection_rule": "Highest R-squared on the held-out test set.",
+  "test_size": 0.2,
+  "random_state": 42,
+  "n_train": 3990,
+  "n_test": 998,
+  "best_model": "Random Forest",
+  "models": [
+    {
+      "model": "Linear Regression",
+      "MAE": 2812031.66,
+      "MSE": 18791607807094.48,
+      "RMSE": 4334928.81,
+      "R2": 0.8979,
+      "fit_seconds": 0.231
+    },
+    {
+      "model": "Decision Tree",
+      "MAE": 2613446.89,
+      "MSE": 17101510821643.29,
+      "RMSE": 4135397.3,
+      "R2": 0.9071,
+      "fit_seconds": 0.045
+    },
+    {
+      "model": "Random Forest",
+      "MAE": 1882568.81,
+      "MSE": 9509291950082.72,
+      "RMSE": 3083713.99,
+      "R2": 0.9483,
+      "fit_seconds": 0.735
+    }
+  ],
+  "metric_explanations": {
+    "MAE": "Lower is better \u2014 average absolute \u20b9 error on the test set.",
+    "MSE": "Lower is better \u2014 mean of squared \u20b9 errors (penalises large misses).",
+    "RMSE": "Lower is better \u2014 square root of MSE, in \u20b9.",
+    "R2": "Higher is better \u2014 proportion of price variance explained (max 1.0)."
+  }
+}
